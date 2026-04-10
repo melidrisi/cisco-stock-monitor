@@ -1,0 +1,2 @@
+timestamp,ticker,price,change,change_pct,prev_close,week_52_high,week_52_low,market_cap
+2026-04-10T09:00:11.940778,CSCO,82.5111,-0.6589000000000027,-0.7922327762414364,83.17,88.19,53.83,326009159680
